@@ -90,7 +90,7 @@ function Header() {
           <ion-icon name="menu-outline"></ion-icon>
         </div>
         <div>
-          <img className="h-10 md:h-14" src="./src/assets/logo.svg" alt="Logo" />
+          <img className="h-10 md:h-14" src="./logo.svg" alt="Logo" />
         </div>
         <div className="border-green-200 border-2 hover:border-green-300 rounded-md h-3/4 w-3/6 md:flex justify-start items-center gap-4 hidden transition-all">
           <div
