@@ -52,7 +52,7 @@ function Banner() {
         </div>
         </div>
         <div className='hidden md:block md:w-2/3 md:h-2/3 md:absolute right-2 top-10 overflow-visible'>
-        <img className='' src="src/assets/popup-1.png"/>
+        <img className='' src="./popup-1.png"/>
         </div>
         <div className='absolute top-3 right-3 text-4xl text-slate-300' onClick={handleState}>
         <ion-icon name="close-outline"></ion-icon>

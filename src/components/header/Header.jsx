@@ -74,7 +74,7 @@ function Header() {
 
   return (
     <>
-    <div className='w-screen flex justify-between items-center font-medium text-slate-400 p-2 px-4'>
+    <div className='w-screen hidden md:flex justify-between items-center font-medium text-slate-400 p-2 px-4'>
       <div className='flex items-center gap-2'>
         <p className='pr-2 border-r-2 h-4 flex justify-center items-center hover:text-green-400 cursor-pointer'>About Us</p>
         <p className='pr-2 border-r-2 h-4 flex justify-center items-center hover:text-green-400 cursor-pointer'>My Account</p>
