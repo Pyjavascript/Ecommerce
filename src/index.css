@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Quicksand", sans-serif;
+
+}
+.sc::-webkit-scrollbar{
+    display: none;
+}
+.stars{
+    background:url(./assets/rating-stars.png);
+    background-size:20%;
+}
+.png{
+    background:url(src/assets/popup-1.png);
+    background-size:120%;
+}
