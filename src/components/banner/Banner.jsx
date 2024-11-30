@@ -40,7 +40,7 @@ function Banner() {
             </div>
             <div className='flex flex-col items-start gap-3'>
             <div className='flex gap-2 items-center'>
-            <div className='bg-red-300 h-3 w-14 stars'>
+            <div className='h-3 w-14 stars'>
             </div>
             <p className='text-sm font-semibold'>3.2k rates</p>
             </div>

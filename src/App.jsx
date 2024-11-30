@@ -5,8 +5,8 @@ function App() {
   return (
     <>
       
-      {/* <Loading /> */}
-      {/* <Banner/> */}
+      <Loading />
+      <Banner/>
       <Header />
       
       

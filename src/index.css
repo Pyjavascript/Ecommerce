@@ -12,7 +12,7 @@
     display: none;
 }
 .stars{
-    background:url(./assets/rating-stars.png);
+    background:url(./rating-stars.png);
     background-size:20%;
 }
 .png{
